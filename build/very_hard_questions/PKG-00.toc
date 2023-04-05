@@ -1,0 +1,349 @@
+('C:\\Users\\Light Flight '
+ 'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\build\\very_hard_questions\\very_hard_questions.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\build\\very_hard_questions\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\build\\very_hard_questions\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\build\\very_hard_questions\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\build\\very_hard_questions\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\build\\very_hard_questions\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\build\\very_hard_questions\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('very_hard_questions',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\very_hard_questions.py',
+   'PYSOURCE'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python37.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\python37.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\libEGL.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\algovenv\\Lib\\site-packages\\PyQt5\\Qt\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\d3dcompiler_47.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\algovenv\\Lib\\site-packages\\PyQt5\\Qt\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\libGLESv2.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\algovenv\\Lib\\site-packages\\PyQt5\\Qt\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\algovenv\\Lib\\site-packages\\PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtWidgets.pyd',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtGui.pyd',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5\\sip.cp37-win32.pyd',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\sip.cp37-win32.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtCore.pyd',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5\\Qt\\bin\\Qt5Gui.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Core.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\MSVCP140.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\algovenv\\Lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Quick.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Network.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5WebSockets.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Svg.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Widgets.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5DBus.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\python3.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\MSVCP140_1.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Qml.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5QmlModels.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\build\\very_hard_questions\\base_library.zip',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_en.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_de.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_da.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_fi.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_fr.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_bg.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_pl.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_sk.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_he.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ca.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ko.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_es.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_lv.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ru.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_cs.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ja.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ar.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_it.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_gd.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_zh_TW.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_zh_TW.qm',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

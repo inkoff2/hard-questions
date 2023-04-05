@@ -1,0 +1,663 @@
+(['C:\\Users\\Light Flight '
+  'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\very_hard_questions.py'],
+ ['C:\\Users\\Light Flight '
+  'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844'],
+ ['codecs'],
+ ['c:\\users\\light flight '
+  'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'c:\\users\\light flight '
+  'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'c:\\users\\light flight '
+  'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'c:\\users\\light flight '
+  'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'c:\\users\\light flight '
+  'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ {},
+ [],
+ [],
+ False,
+ False,
+ False,
+ {},
+ '3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 09:44:33) [MSC v.1900 32 bit '
+ '(Intel)]',
+ [('pyi_rth_pyqt5',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('very_hard_questions',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\very_hard_questions.py',
+   'PYSOURCE')],
+ [('inspect',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\struct.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\ast.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\opcode.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\getopt.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\bz2.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\calendar.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\_compression.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\base64.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\selectors.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\signal.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\string.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\pprint.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\gzip.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\lzma.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\ssl.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\socket.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\bisect.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\typing.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\random.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE')],
+ [('VCRUNTIME140.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python37.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\python37.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\libEGL.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\algovenv\\Lib\\site-packages\\PyQt5\\Qt\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\d3dcompiler_47.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\algovenv\\Lib\\site-packages\\PyQt5\\Qt\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\libGLESv2.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\algovenv\\Lib\\site-packages\\PyQt5\\Qt\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\algovenv\\Lib\\site-packages\\PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtWidgets.pyd',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtGui.pyd',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5\\sip.cp37-win32.pyd',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\sip.cp37-win32.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtCore.pyd',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5\\Qt\\bin\\Qt5Gui.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Core.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\MSVCP140.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\algovenv\\Lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Quick.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Network.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5WebSockets.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Svg.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Widgets.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5DBus.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\python3.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\MSVCP140_1.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5Qml.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\Qt5QmlModels.dll',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5QmlModels.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\build\\very_hard_questions\\base_library.zip',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_en.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_de.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_da.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_fi.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_fr.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_bg.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_pl.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_sk.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_he.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ca.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ko.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_es.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_lv.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ru.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_cs.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ja.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ar.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_it.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_gd.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_zh_TW.qm',
+   'C:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_zh_TW.qm',
+   'DATA')],
+ [])

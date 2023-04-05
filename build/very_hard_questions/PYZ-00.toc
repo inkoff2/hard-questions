@@ -1,0 +1,330 @@
+('C:\\Users\\Light Flight '
+ 'PC\\AppData\\Local\\Programs\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20230320.193254.0\\data\\student\\1017181\\86844\\build\\very_hard_questions\\PYZ-00.pyz',
+ [('PyQt5',
+   'c:\\users\\light flight '
+   'pc\\appdata\\local\\programs\\algoritmika\\algovenv\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\calendar.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\copy.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\datetime.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\inspect.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\optparse.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\socket.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\ssl.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\threading.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\typing.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\uu.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Light Flight '
+   'PC\\AppData\\Local\\Programs\\Algoritmika\\python\\lib\\zipfile.py',
+   'PYMODULE')])
